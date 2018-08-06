@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DrinkRobot", "DrinkRobot\DrinkRobot.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CUY", "..\..\..\Documents\Arduino\libraries\CUY\CUY.vcxitems", "{94F1FB7C-12D7-4D9B-A8D2-46938A6E2D98}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Interrupt", "..\..\..\Documents\Arduino\My Examples\131779881961505191\Interrupt\Interrupt.vcxproj", "{CBD7912D-D271-4F1D-BF62-B3E99DF62DAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -15,6 +19,10 @@ Global
 		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
 		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
 		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+		{CBD7912D-D271-4F1D-BF62-B3E99DF62DAD}.Debug|x86.ActiveCfg = Debug|Win32
+		{CBD7912D-D271-4F1D-BF62-B3E99DF62DAD}.Debug|x86.Build.0 = Debug|Win32
+		{CBD7912D-D271-4F1D-BF62-B3E99DF62DAD}.Release|x86.ActiveCfg = Release|Win32
+		{CBD7912D-D271-4F1D-BF62-B3E99DF62DAD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
